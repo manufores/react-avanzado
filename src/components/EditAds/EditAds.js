@@ -38,7 +38,7 @@ const EditAdvert = ( { adverts, fetchEditAdverts, history, match }) => {
       });
       
   
-    //   history.push('/adslist')
+      history.push('/adslist')
       
     }
   
